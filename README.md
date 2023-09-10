@@ -9,7 +9,7 @@ My stack:
 
 * AWS Certified: Solutions Architect Associate ✅
 * AWS Certified: Developer Associate (in progress)
-* Backend: Typescript | Javascript | Deno | Node.js
+* Backend: Typescript | Javascript | Deno | Node.js | NestJS
 * Frontend: Svelte | Angular | React | Next
 * Data: Postgres | DynamoDB | Mongo
 * IAC: CDK | SST | Terraform | SAM | Serverless
