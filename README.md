@@ -16,9 +16,13 @@ My stack:
 
 ---
 
+Find some articles I published [here 📚](https://sellooh.github.io/blog/blog/)
+
+---
+
 More:
 
-- 🔭 I’m currently working on ____________
+- 🔭 I’m currently working on [Space Desert](https://sellooh.github.io/blog/blog/space-desert-discovery/)
 - 🌱 I’m currently learning **Golang**
 - 💡 I’m curious about **Elixir** **Kubernetes** **Azure**
 - 📫 How to reach me: [Email](mailto:plinths.beanie-0i@icloud.com) or [Linkedin](https://www.linkedin.com/in/marcelo-bairros/)
