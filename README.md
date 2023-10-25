@@ -20,6 +20,15 @@ Find some articles I published [here 📚](https://sellooh.github.io/blog/blog/)
 
 ---
 
+Talks:
+
+- Better error handling in typescript with custom Result Type - [Youtube](https://youtu.be/NnAGCDw1VvY)
+- My experience taking an AWS Certification (SAA-CO3) [Youtube](https://youtu.be/ZosilIH1WUc)
+- AWS Lambda Power Tuning - Youtube
+- STT: Yet another IAC tool for AWS - Youtube
+
+---
+
 More:
 
 - 🔭 I’m currently working on [Space Desert](https://sellooh.github.io/blog/blog/space-desert-discovery/)
