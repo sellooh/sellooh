@@ -16,7 +16,9 @@ My stack:
 
 ---
 
-Find some articles I published [here 📚](https://sellooh.github.io/blog/blog/)
+Open source:
+
+- [Effect XRay](https://jsr.io/@sellooh/effect-xray): Observability layer for sending Effect traces to XRay in lambda environments.
 
 ---
 
@@ -31,8 +33,5 @@ Talks:
 
 More:
 
-- 🔭 I’m currently working on [Space Desert](https://sellooh.github.io/blog/blog/space-desert-discovery/)
-- 🌱 I’m currently studying **Data Engineering**
-- 💡 I’m curious about **Elixir** **Kubernetes** **Azure**
 - 📫 How to reach me: [Email](mailto:plinths.beanie-0i@icloud.com) or [Linkedin](https://www.linkedin.com/in/marcelo-bairros/)
 
