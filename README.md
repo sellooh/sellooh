@@ -35,5 +35,5 @@ Talks:
 
 More:
 
-- 📫 How to reach me: [Email](mailto:plinths.beanie-0i@icloud.com) or [Linkedin](https://www.linkedin.com/in/marcelo-bairros/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marcelo-bairros/)
 
