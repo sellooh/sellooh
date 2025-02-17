@@ -25,6 +25,8 @@ Open source:
 Talks:
 
 - Better error handling in typescript with custom Result Type - [Youtube](https://youtu.be/NnAGCDw1VvY)
+- AWS Cedar: Move Beyond Role-Based Access Control (RBAC) - [Youtube](https://youtu.be/4p8nxYj6uE0)
+- Intro to Effect - Production ready typescript [Youtube](https://youtu.be/zLxUxPCq-TQ)
 - My experience taking an AWS Certification (SAA-CO3) [Youtube](https://youtu.be/ZosilIH1WUc)
 - SST - Build modern full-stack applications on AWS - [Youtube](https://youtu.be/2oJ41crXoWU)
 - AWS Lambda Power Tuning - [Youtube](https://youtu.be/DEeAymPPu6M?si=TH2nC9WxKePZSl4R)
